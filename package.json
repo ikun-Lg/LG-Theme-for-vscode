@@ -1,0 +1,49 @@
+{
+  "name": "lggbond-theme",
+  "displayName": "LG Theme",
+  "description": "一个温暖优雅的金色主题，专为提升编程体验而设计。采用金黄色调配色方案，提供舒适的视觉体验和出色的代码可读性。",
+  "version": "1.0.1",
+  "publisher": "lggbond",
+  "author": {
+    "name": "lggbond",
+    "email": "lggbondl@sina.com"
+  },
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "golden",
+    "warm",
+    "elegant",
+    "lggbond",
+    "yellow",
+    "comfortable",
+    "coding"
+  ],
+  "galleryBanner": {
+    "color": "#FFD100",
+    "theme": "light"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikun-Lg/LG-Theme-for-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikun-Lg/LG-Theme-for-vscode/issues"
+  },
+  "homepage": "https://github.com/ikun-Lg/LG-Theme-for-vscode#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "LGGBond Golden",
+        "uiTheme": "vs",
+        "path": "./themes/lggbond-color-theme.json"
+      }
+    ]
+  }
+}
