@@ -31,7 +31,7 @@
 		"list.activeSelectionOutline": "#FF8C00",
 		"list.inactiveSelectionOutline": "#FFB84D",
 		
-		// 标签页优化 - 与活动栏背景统一
+		// 标签页优化 - 选项卡颜色保持不变，背景栏使用协调的颜色
 		"tab.activeBackground": "#FFD100",
 		"tab.activeForeground": "#111111",
 		"tab.activeBorder": "#CC9900",
@@ -42,7 +42,7 @@
 		"tab.hoverForeground": "#111111",
 		"tab.hoverBorder": "#FFB84D",
 		"tab.border": "#F0F0ED",
-		"editorGroupHeader.tabsBackground": "#FFD100",
+		"editorGroupHeader.tabsBackground": "#FFF8E8",
 		"editorGroupHeader.tabsBorder": "#E8E8E5",
 		
 		// 侧边栏优化 - 增强层次感
@@ -107,10 +107,16 @@
 		"panelSection.border": "#CC9900",
 		"panelInput.border": "#CC9900",
 		
-		// 底部面板标签页边框
+		// 底部面板标签页优化 - 去除美团黄背景
+		"panelTab.activeBackground": "#F5F5F5",
+		"panelTab.activeForeground": "#111111",
 		"panelTab.activeBorder": "#CC9900",
 		"panelTab.activeBorderTop": "#CC9900",
+		"panelTab.inactiveBackground": "#FFFFFF",
+		"panelTab.inactiveForeground": "#666666",
 		"panelTab.border": "#CC9900",
+		"panelTab.hoverBackground": "#F0F0F0",
+		"panelTab.hoverForeground": "#111111",
 		"panelTab.hoverBorder": "#FFB84D",
 		
 		// 终端相关边框
