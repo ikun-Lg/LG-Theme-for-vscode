@@ -2,10 +2,10 @@
   "name": "lggbond-theme",
   "displayName": "LG Theme",
   "description": "一个温暖优雅的金色主题，专为提升编程体验而设计。采用金黄色调配色方案，提供舒适的视觉体验和出色的代码可读性。",
-  "version": "1.0.3",
-  "publisher": "ikun-Lg",
+  "version": "1.0.4.",
+  "publisher": "lggbond",
   "author": {
-    "name": "lggbond",
+    "name": "ikun-Lg",
     "email": "lggbondl@sina.com"
   },
   "engines": {
