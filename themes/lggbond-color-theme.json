@@ -1,11 +1,10 @@
 {
-	"name": "meituan-yellow",
+	"name": "LGGBond Golden",
+	"type": "light",
 	"colors": {
-		// 编辑器背景优化 - 更温暖的米黄色
-		"editor.background": "#FFFCF0",
 		"editor.foreground": "#111111",
-		
-		// 当前行高亮优化
+		"editor.background": "#FFFFFF",
+		"editor.selectionBackground": "#FFD100",
 		"editor.lineHighlightBackground": "#FFF9E6",
 		"editor.lineHighlightBorder": "#FFE066",
 		
@@ -42,6 +41,8 @@
 		"tab.hoverForeground": "#111111",
 		"tab.hoverBorder": "#FFB84D",
 		"tab.border": "#F0F0ED",
+		"tab.activeBackground": "#FFD100",
+		"tab.inactiveBackground": "#FFE799",
 		"editorGroupHeader.tabsBackground": "#FFF8E8",
 		"editorGroupHeader.tabsBorder": "#E8E8E5",
 		
