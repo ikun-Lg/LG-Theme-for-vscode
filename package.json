@@ -2,7 +2,7 @@
   "name": "lggbond-theme",
   "displayName": "LG Theme",
   "description": "一个温暖优雅的金色主题，专为提升编程体验而设计。采用金黄色调配色方案，提供舒适的视觉体验和出色的代码可读性。",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "lggbond",
   "author": {
     "name": "lggbond",
@@ -41,7 +41,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "LGGBond Golden",
+        "label": "Sunflower",
         "uiTheme": "vs",
         "path": "./themes/lggbond-color-theme.json"
       }

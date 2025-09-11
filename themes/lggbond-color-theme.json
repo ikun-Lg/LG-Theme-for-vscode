@@ -435,14 +435,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#FFB84D"
+				"foreground": "#B8860B"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FFD100"
+				"foreground": "#CC9900"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 				"meta.attribute-with-value string"
 			],
 			"settings": {
-				"foreground": "#CC7A00"
+				"foreground": "#996600"
 			}
 		},
 		{
