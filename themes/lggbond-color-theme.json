@@ -1,12 +1,40 @@
 {
-	"name": "LGGBond Golden",
+	"name": "Sunflower",
 	"type": "light",
 	"colors": {
 		"editor.foreground": "#111111",
-		"editor.background": "#FFFFFF",
+		"editor.background": "#FFFEF7",
 		"editor.selectionBackground": "#FFD100",
 		"editor.lineHighlightBackground": "#FFF9E6",
 		"editor.lineHighlightBorder": "#FFE066",
+		
+		// 行号颜色配置
+		"editorLineNumber.foreground": "#CCCCCC",
+		"editorLineNumber.activeForeground": "#111111",
+		
+		// 光标和括号匹配
+		"editorCursor.foreground": "#CC6600",
+		"editorBracketMatch.background": "#FFE59980",
+		"editorBracketMatch.border": "#FFD100",
+		
+		// 缩进参考线
+		"editorIndentGuide.background": "#F0F0F0",
+		"editorIndentGuide.activeBackground": "#CCCCCC",
+		
+		// 滚动条优化
+		"scrollbarSlider.background": "#E0E0E080",
+		"scrollbarSlider.hoverBackground": "#CCCCCC80",
+		"scrollbarSlider.activeBackground": "#999999A0",
+		
+		// 错误和警告
+		"editorError.foreground": "#D32F2F",
+		"editorWarning.foreground": "#F57C00",
+		"editorInfo.foreground": "#1976D2",
+		
+		// 分割线统一
+		"editorGroup.border": "#E0E0E0",
+		"panel.border": "#E0E0E0",
+		"sideBar.border": "#E0E0E0",
 		
 		// 选择和搜索优化
 		"editor.selectionBackground": "#FFE599",
@@ -227,7 +255,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#888888"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -235,7 +263,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#888888"
+				"foreground": "#666666"
 			}
 		},
 		{
@@ -269,7 +297,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#FFD100"
+				"foreground": "#CC6600"
 			}
 		},
 		{
@@ -355,7 +383,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#B8860B"
+				"foreground": "#8B6914"
 			}
 		},
 		{
