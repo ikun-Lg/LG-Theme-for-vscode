@@ -1,8 +1,8 @@
 {
   "name": "lggbond-theme",
-  "displayName": "LG Theme",
-  "description": "一个温暖优雅的金色主题，专为提升编程体验而设计。采用金黄色调配色方案，提供舒适的视觉体验和出色的代码可读性。",
-  "version": "1.1.0",
+  "displayName": "小黄油 Little Butter",
+  "description": "小黄油 Little Butter —— 一款可可爱爱的浅色主题：奶油黄底 + 糖果色语法（草莓粉、葡萄紫、薄荷绿、天空蓝、蜜桃橙、蜂蜜金）+ 腮红粉点缀。软萌不刺眼，长时间编码舒适护眼、代码层次清晰。",
+  "version": "1.4.0",
   "publisher": "lggbond",
   "author": {
     "name": "lggbond",
@@ -23,10 +23,17 @@
     "yellow",
     "comfortable",
     "coding",
-    "meituan"
+    "meituan",
+    "light",
+    "cute",
+    "pastel",
+    "pink",
+    "butter",
+    "小黄油",
+    "kawaii"
   ],
   "galleryBanner": {
-    "color": "#FFC300",
+    "color": "#FBE0EA",
     "theme": "light"
   },
   "icon": "icon.png",
@@ -42,9 +49,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sunflower",
+        "label": "Little Butter (小黄油)",
         "uiTheme": "vs",
-        "path": "./themes/lggbond-color-theme.json"
+        "path": "./themes/lggbond-butter-color-theme.json"
       }
     ]
   }
