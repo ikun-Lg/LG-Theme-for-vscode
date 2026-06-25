@@ -2,7 +2,7 @@
   "name": "lggbond-theme",
   "displayName": "小黄油 Little Butter",
   "description": "小黄油 Little Butter —— 一款可可爱爱的浅色主题：奶油黄底 + 糖果色语法（草莓粉、葡萄紫、薄荷绿、天空蓝、蜜桃橙、蜂蜜金）+ 腮红粉点缀。软萌不刺眼，长时间编码舒适护眼、代码层次清晰。",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publisher": "lggbond",
   "author": {
     "name": "lggbond",
@@ -52,6 +52,11 @@
         "label": "Little Butter (小黄油)",
         "uiTheme": "vs",
         "path": "./themes/lggbond-butter-color-theme.json"
+      },
+      {
+        "label": "Little Butter Flat (小黄油·一体)",
+        "uiTheme": "vs",
+        "path": "./themes/lggbond-flat-color-theme.json"
       }
     ],
     "iconThemes": [
